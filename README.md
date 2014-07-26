@@ -1,9 +1,9 @@
 #AutoSwitcher
 
 A macro I wrote a couple years back for use with popular MMO - Runescape. Works mostly in the old-school version, for quick "autoswitching" during PVP gameplay.
-----
 
 How to use:
+------
 
 1. Open the file (download [here](http://samism.net/Auto%20Switcher.jar))
 2. Click which inventory slots you want to be clicked
