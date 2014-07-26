@@ -1,7 +1,6 @@
 #AutoSwitcher
 
-A macro I wrote a couple years back for use with popular MMO - Runescape.
-Works mostly in the old-school version, for quick "autoswitching" during PVP gameplay.
+A macro I wrote a couple years back for use with popular MMO - Runescape. Works mostly in the old-school version, for quick "autoswitching" during PVP gameplay.
 ----
 
 How to use:
