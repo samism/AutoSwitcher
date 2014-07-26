@@ -1,4 +1,4 @@
-package com.samism.rs.autoswitcher;
+package net.samism.java.AutoSwitcher;
 
 import java.io.File;
 import java.util.HashMap;
