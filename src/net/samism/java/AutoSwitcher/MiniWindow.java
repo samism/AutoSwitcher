@@ -42,7 +42,7 @@ class MiniWindow extends JFrame {
 	private boolean[] slotFlags = null;
 
 	static {
-		BACK_IMAGE = new ImageIcon(MiniWindow.class.getResource("backButton.png"));
+		BACK_IMAGE = new ImageIcon(MiniWindow.class.getResource("resources/backButton.png"));
 	}
 
 	public MiniWindow(AutoSwitcher as) {

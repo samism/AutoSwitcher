@@ -28,8 +28,8 @@ class InventoryPanel extends JPanel {
 	private boolean gotSlots;
 
 	static {
-		INV = new ImageIcon(InventoryPanel.class.getResource("inventory.png"));
-		CHECK = new ImageIcon(InventoryPanel.class.getResource("check.png"));
+		INV = new ImageIcon(InventoryPanel.class.getResource("resources/inventory.png"));
+		CHECK = new ImageIcon(InventoryPanel.class.getResource("resources/check.png"));
 	}
 
 	public InventoryPanel() {

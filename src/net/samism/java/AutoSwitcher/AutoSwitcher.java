@@ -69,11 +69,11 @@ class AutoSwitcher extends JFrame {
 	private Point setPoint = null;
 
 	static {
-		ICON_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("spitfire.png"));
-		DONATE_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("donate.png"));
-		SET_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("setButton.png"));
-		CLOSE_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("closeButton.png"));
-		MINIMIZE_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("minimizeButton.png"));
+		ICON_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("resources/spitfire.png"));
+		DONATE_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("resources/donate.png"));
+		SET_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("resources/setButton.png"));
+		CLOSE_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("resources/closeButton.png"));
+		MINIMIZE_IMAGE = new ImageIcon(AutoSwitcher.class.getResource("resources/minimizeButton.png"));
 
 		tk = Toolkit.getDefaultToolkit();
 		screenSize = tk.getScreenSize();
